@@ -5,7 +5,7 @@ Classify tumors into malignant (cancerous) or benign (non-cancerous) using a Sup
 2. split, standardization
 3. create, fit and test the model (only results of two kernels are shown here, linear and rbf)
 4. cross validation using "for" loop for spliting the data
-5. using function k-fold cross validation
+5. using function k-fold cross validation (same results as 4.)
 6. parameters tuning using "for" loop
 7. using principal component analysis for dimensionality reduction and visualization
 
