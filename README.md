@@ -1,10 +1,11 @@
 # support-vector-classification
 
 Classify tumors into malignant (cancerous) or benign (non-cancerous) using a Support Vector Machine.
-1. EXPLORING THE DATA
-2. SPLIT, STANDARDIZATION
-3. CREATE, FIT AND TEST THE MODEL (only results of two kernels are shown here, linear and rbf)
-4. CROSS VALIDATION USING "for" LOOP FOR SPLITING THE DATA
-5. USING FUNCTION K-FOLD CROSS VALIDATION
-6. PARAMETERS TUNING USING "for" LOOP
-7. USING PRINCIPAL COMPONENT ANALYSIS FOR DIMENSIONALITY REDUCTION AND VISUALIZATION
+1. exploring the data
+2. split, standardization
+3. create, fit and test the model (only results of two kernels are shown here, linear and rbf)
+4. cross validation using "for" loop for spliting the data
+5. using function k-fold cross validation
+6. parameters tuning using "for" loop
+7. using principal component analysis for dimensionality reduction and visualization
+
