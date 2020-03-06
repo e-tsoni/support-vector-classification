@@ -9,3 +9,4 @@ Classify tumors into malignant (cancerous) or benign (non-cancerous) using a Sup
 6. parameters tuning using "for" loop
 7. using principal component analysis for dimensionality reduction and visualization
 
+Pending: Visualize the relationship and the correlation between our features.
